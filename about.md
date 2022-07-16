@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Sandeep](https://media-exp1.licdn.com/dms/image/D5603AQHAoe1NmNuJhg/profile-displayphoto-shrink_800_800/0/1629767341422?e=1663200000&v=beta&t=XOgmcOPB42tjtF74O65N31NhojstZCt9O83caIWx1yI)
+<img src="https://media-exp1.licdn.com/dms/image/D5603AQHAoe1NmNuJhg/profile-displayphoto-shrink_800_800/0/1629767341422?e=1663200000&v=beta&t=XOgmcOPB42tjtF74O65N31NhojstZCt9O83caIWx1yI" alt="Sandeep" width="200"/>
 
 Hi! I'm Sandeep. I'm working as a Software Engineer at Google (Hyderabad) in the Google Pay Engineering Productivity team. Outside of work, I like to mess around with my guitar, keyboard, drawing tablet, and read stuff online.
 
